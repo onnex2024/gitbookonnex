@@ -1,17 +1,16 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Overview](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Overview](README.md)
+* [Opportunity](opportunity.md)
+* [Onnex: 'the driver's platform'](onnex-the-drivers-platform.md)
+* [Seizing the Opportunity](seizing-the-opportunity.md)
+* [The Onnex Ecosystem](the-onnex-ecosystem/README.md)
+  * [Onnex TMS - Transport Management System](the-onnex-ecosystem/onnex-tms-transport-management-system.md)
+  * [Onnex Payment Guarantee](the-onnex-ecosystem/onnex-payment-guarantee.md)
+  * [OnnexDAO](the-onnex-ecosystem/onnexdao.md)
+* [Unique Selling Points (USPs)](unique-selling-points-usps/README.md)
+  * [USPs for Drivers](unique-selling-points-usps/usps-for-drivers.md)
+  * [USPs for Clients](unique-selling-points-usps/usps-for-clients.md)
+* [Roadmap](roadmap.md)
+* [Team](team.md)
+* [Call to Action](call-to-action.md)
