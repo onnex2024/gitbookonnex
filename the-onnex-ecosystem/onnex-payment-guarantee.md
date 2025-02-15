@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Onnex Payment Guarantee
+
+<div align="left"><figure><img src="../.gitbook/assets/Onnex Payment Guarantee.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Financial stability is critical for drivers and businesses alike. The Onnex Payment Guarantee ensures that every delivery transaction is secure, reliable, and efficient. This component includes:
 
