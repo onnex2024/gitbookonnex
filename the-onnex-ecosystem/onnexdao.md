@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # OnnexDAO
+
+<div align="left"><figure><img src="../.gitbook/assets/OnnexDAO Heading.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 The OnnexDAO is the governance layer of the ecosystem, designed to ensure that all stakeholders have a voice in its development and operation.&#x20;
 
