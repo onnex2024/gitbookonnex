@@ -24,4 +24,4 @@ Through the OnnexDAO, we:
 * Reward Contributions: Provide incentives for active participation and valuable contributions to the ecosystem. As a community owner you will have the opportunity to share in the company’s profits and growth simply through your active engagement and work within Onnex.
 * Foster Transparency: Utilize blockchain technology to maintain a transparent and immutable record of all transactions and decisions. No heavy share agreements or stock bonuses, everyone earns ONXD tokens that it is our aim to have an active marketplace on major Web3 exchanges.
 
-## _<mark style="color:green;">**The OnnexDAO represents our commitment to building a fair, inclusive, and community-driven platform that evolves with the needs of its users.**</mark>_
+<figure><img src="../.gitbook/assets/Represents (1).png" alt=""><figcaption></figcaption></figure>
