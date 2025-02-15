@@ -14,7 +14,7 @@ layout:
 
 # Call to Action
 
-<div align="left"><figure><img src=".gitbook/assets/Call to Action.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/Call to Action.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Onnex is more than a platform; it’s a movement aimed at empowering the delivery economy. By integrating cutting-edge technology with community-driven Web3 governance, we’re reshaping the industry to prioritize fairness, reliability, and innovation. Join us as we build the future of delivery, one package at a time.
 
