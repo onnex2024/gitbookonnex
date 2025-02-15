@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Opportunity
+
+<div align="left"><figure><img src=".gitbook/assets/Opportunity.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Gig-work is broken, all the power and relationships are in the hands of large tech companies, so we simply wanted to change that. &#x20;
 
