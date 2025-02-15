@@ -1,4 +1,22 @@
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # USPs for Clients
+
+
+
+<div align="left"><figure><img src="../.gitbook/assets/USPs for Clients.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1. Reduces costs of using own drivers & trucks between 30-50%
 2. Reduces time managing deliveries and payments by 75%
@@ -15,3 +33,6 @@
 13. No more management of drivers. No more headaches!
 14. Advanced software integrates with all 3rd party applications
 15. Crisis friendly - independent delivery companies are ‘essential services’ plus less direct contact with customers. Also when CDK went down in August 2024 there were less deliveries which was easier for our clients to handle this sudden reduction in volume.
+
+
+
