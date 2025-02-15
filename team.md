@@ -16,11 +16,11 @@ layout:
 
 <div align="left"><figure><img src=".gitbook/assets/Team.png" alt="" width="156"><figcaption></figcaption></figure></div>
 
-### [**CEO**](#user-content-fn-1)[^1] **& Co-founder - Hugh Dunkerley**
+### [**CEO & Co-founder**](#user-content-fn-1)[^1] **- Hugh Dunkerley**
 
 <div align="left"><figure><img src=".gitbook/assets/HD Profile Pic.jpeg.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-### Director[^2] & C0-Founder - Nadia Bouzar
+### [Director & Co-founder](#user-content-fn-2)[^2] - Nadia Bouzar
 
 <div align="left"><figure><img src=".gitbook/assets/NB Profile Pic.jpeg" alt="" width="188"><figcaption></figcaption></figure></div>
 
