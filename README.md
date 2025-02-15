@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: .gitbook/assets/OnnexDAO Banner transparent v2 (2).png
-coverY: 0
+coverY: 152.95
 layout:
   cover:
     visible: true
