@@ -18,7 +18,7 @@ layout:
 
 <div align="left" data-full-width="false"><figure><img src=".gitbook/assets/The Drivers Platform.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Our main motivations for starting Onnex was threefold:
+Our main motivations for starting Onnex were:
 
 1. We knew we could do same-day delivery better than others&#x20;
 2. We knew that there was real demand for this service.
