@@ -20,7 +20,7 @@ layout:
 
 Gig-work is broken, all the power and relationships are in the hands of large tech companies, so we simply wanted to change that. &#x20;
 
-Our vision is to create a robust, decentralized ecosystem that empowers drivers, delivery professionals, and businesses to succeed in an new environment characterized by transparency, innovation, and fairness. Rather than these being hollow words, here is how we are going about making this a reality.
+Our vision is to create a robust, decentralized ecosystem that empowers drivers, delivery professionals, and businesses to succeed in a new environment characterized by transparency, innovation, and fairness. Rather than these being hollow words, here is how we are going about making this a reality.
 
 1. All our clients / shippers can use our platform for free to manage any drivers they currently employ, and simply use our service for extra deliveries they don’t have the manpower for.
 2. Our goal is to give drivers at least 8 hours of well paying work a day; in other words a full-time opportunity. No need to have five different delivery platforms open to try and get enough hours of work in the day.
