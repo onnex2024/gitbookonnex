@@ -30,4 +30,4 @@ layout:
 
     CDL-A with 6 years in logistics.
 
-[^2]: Nataxis Asset Management, FR.
+[^2]: Natixis Asset Management, FR.
