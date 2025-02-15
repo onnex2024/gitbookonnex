@@ -28,6 +28,8 @@ layout:
 
 Our app development team includes some of the brightest minds in engineering. They're developing our scalable app on the Internet Computer to provide an intuitive and simple user interface that can be easily adopted by all our clients. This team’s passion for problem-solving and sustainability is what drives the core of our innovation.
 
+### Marketing Director - Christian Brantley
+
 [^1]: Ex-banker and head West Coast Capital Markets Federal Deposit Insurance Corporation (FDIC).&#x20;
 
     CDL-A with 6 years in logistics.
