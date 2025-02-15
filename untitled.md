@@ -1,4 +1,20 @@
-# Seizing the Opportunity
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Untitled
+
+<div align="left"><figure><img src=".gitbook/assets/Seizing the Opportunity.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The delivery economy is ripe for innovation, and Onnex is uniquely positioned to capitalize on this opportunity by addressing the industry’s most pressing challenges:
 

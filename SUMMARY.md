@@ -2,8 +2,8 @@
 
 * [Overview](README.md)
 * [Opportunity](opportunity.md)
+* [Untitled](untitled.md)
 * ['The Driver's Platform'](the-drivers-platform.md)
-* [Seizing the Opportunity](seizing-the-opportunity.md)
 * [The Onnex Ecosystem](the-onnex-ecosystem/README.md)
   * [Onnex TMS - Transport Management System](the-onnex-ecosystem/onnex-tms-transport-management-system.md)
   * [Onnex Payment Guarantee](the-onnex-ecosystem/onnex-payment-guarantee.md)
