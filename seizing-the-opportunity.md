@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Untitled
+# Seizing the Opportunity
 
 <div align="left"><figure><img src=".gitbook/assets/Seizing the Opportunity.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
