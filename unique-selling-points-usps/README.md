@@ -20,7 +20,7 @@ layout:
 
 
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><a href="usps-for-drivers.md"><mark style="color:green;">USPs for Drivers</mark></a></td><td><a href="../.gitbook/assets/Driver Happy Face (3).png">Driver Happy Face (3).png</a></td></tr><tr><td align="center"><a href="usps-for-clients.md"><mark style="color:green;">USPs for Clients</mark></a></td><td><a href="../.gitbook/assets/Client Happy Face.png">Client Happy Face.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><a href="usps-for-drivers.md"><mark style="color:green;"><strong>USPs for Drivers</strong></mark></a></td><td><a href="../.gitbook/assets/Driver Happy Face (3).png">Driver Happy Face (3).png</a></td></tr><tr><td align="center"><a href="usps-for-clients.md"><mark style="color:green;"><strong>USPs for Clients</strong></mark></a></td><td><a href="../.gitbook/assets/Client Happy Face.png">Client Happy Face.png</a></td></tr></tbody></table>
 
 
 
