@@ -1,4 +1,22 @@
-# Onnex: 'the driver's platform'
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 'The Driver's Platform'
+
+
+
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/The Drivers Platform.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Our main motivations for starting Onnex was threefold:
 
