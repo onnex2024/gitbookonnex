@@ -6,7 +6,7 @@
 * ['The Driver's Platform'](the-drivers-platform.md)
 * [The Onnex Ecosystem](the-onnex-ecosystem/README.md)
   * [Onnex TMS - Transport Management System](the-onnex-ecosystem/onnex-tms-transport-management-system.md)
-  * [Onnex Payment Guarantee](the-onnex-ecosystem/onnex-payment-guarantee.md)
+  * [Onnex COMPS - Complete Mobile Payment System](the-onnex-ecosystem/onnex-comps-complete-mobile-payment-system.md)
   * [OnnexDAO](the-onnex-ecosystem/onnexdao.md)
 * [Unique Selling Points (USPs)](unique-selling-points-usps/README.md)
   * [USPs for Drivers](unique-selling-points-usps/usps-for-drivers.md)

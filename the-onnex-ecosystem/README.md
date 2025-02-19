@@ -20,7 +20,7 @@ The Onnex ecosystem comprises three primary components, each addressing critical
 
 
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><a href="onnex-tms-transport-management-system.md"><strong>TRANSPORT MANAGEMENT SYSTEM</strong></a></td><td><a href="../.gitbook/assets/TMS icon v1.png">TMS icon v1.png</a></td></tr><tr><td align="center"><a href="onnex-payment-guarantee.md"><strong>COMPS - COMPLETE MOBILE PAYMENT SYSTEM</strong></a></td><td><a href="../.gitbook/assets/Payment Guarantee Icon v1.png">Payment Guarantee Icon v1.png</a></td></tr><tr><td align="center"><a href="onnexdao.md"><strong>ONNNEXDAO</strong></a></td><td><a href="../.gitbook/assets/OnnexDAO icon tile (1).png">OnnexDAO icon tile (1).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><a href="onnex-tms-transport-management-system.md"><strong>TRANSPORT MANAGEMENT SYSTEM</strong></a></td><td><a href="../.gitbook/assets/TMS icon v1.png">TMS icon v1.png</a></td></tr><tr><td align="center"><a href="onnex-comps-complete-mobile-payment-system.md"><strong>COMPS - COMPLETE MOBILE PAYMENT SYSTEM</strong></a></td><td><a href="../.gitbook/assets/Payment Guarantee Icon v1.png">Payment Guarantee Icon v1.png</a></td></tr><tr><td align="center"><a href="onnexdao.md"><strong>ONNNEXDAO</strong></a></td><td><a href="../.gitbook/assets/OnnexDAO icon tile (1).png">OnnexDAO icon tile (1).png</a></td></tr></tbody></table>
 
 ### Onnex Network Effect: an incentivized positive feedback loop&#x20;
 
@@ -38,7 +38,7 @@ The Onnex Network Effect isn't just about delivery; it's about building a robust
 
 While many delivery companies focus solely on the Transport Management System (TMS), Onnex understands the power of synergy. Our TMS is enhanced by the CMPS and the OnnexDAO.&#x20;
 
-The TMS handles the crucial operational side of deliveries—the essential 50% of the equation. A smooth, efficient payment process is paramount; without it, business managers and accountants will be dissatisfied, so the CMPS tackles the equally critical financial aspect of deliveries. Finally, the DAO fosters a thriving community, incentivizing participation and alignment among Onnex, clients, and drivers, creating a powerful network effect.
+The TMS handles the crucial operational side of deliveries—an essential 50% of the equation. A smooth, efficient payment process is paramount; without it, business managers and accountants will be dissatisfied, so the CMPS tackles the equally critical financial aspect of deliveries. Finally, the DAO fosters a thriving community, incentivizing participation and alignment among Onnex, clients, and drivers, creating a powerful network effect.
 
 These three components work in harmony to create a superior delivery ecosystem that outperforms traditional models.
 
